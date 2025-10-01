@@ -7,7 +7,6 @@ CREATE TABLE Admin (
     Admin_phone VARCHAR(15),
     Admin_email VARCHAR(100) UNIQUE
 );
-
 DESCRIBE Admin
 
 -- 2. Shop
@@ -21,6 +20,7 @@ CREATE TABLE Shop (
     FOREIGN KEY (A_ID) REFERENCES Admin(Admin_ID)
 );
 DESCRIBE Shop
+
 -- 3. Facility
 CREATE TABLE Facility (
     Facility_ID INT PRIMARY KEY,
@@ -42,7 +42,6 @@ CREATE TABLE Employee (
     A_ID INT,
     FOREIGN KEY (A_ID) REFERENCES Admin(Admin_ID)
 ); 
-
 DESCRIBE Employee
 
 -- 5. Request
@@ -54,7 +53,6 @@ CREATE TABLE Request (
     F_ID INT,
     FOREIGN KEY (F_ID) REFERENCES Facility(Facility_ID)
 );
-
 DESCRIBE Request
 
 -- 6. Tenant
@@ -65,7 +63,6 @@ CREATE TABLE Tenant (
     Tenant_phone VARCHAR(15),
     Tenant_ID_proof VARCHAR(50)
 );
-
 DESCRIBE Tenant
 
 -- 7. Payment
