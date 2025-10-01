@@ -1,2 +1,2 @@
 # Advance-Database-Management-System
-    Mall Management System
+    Project Name: Mall Management System
