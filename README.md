@@ -16,7 +16,7 @@ It provides a relational database model with user-friendly interfaces and PL/SQL
 
 # 🛠️ Key Features
 	•	ER Diagram – Visual representation of entities and relationships.
-	•	Normalization – Data structured up to 3NF/BCNF for efficiency.
+	•	Normalization – Data structured up to 1NF,2NF,3NF & final table creations for efficiency.
 	•	Schema Diagram – Logical structure of the database.
 	•	Table Creation (SQL) – SQL scripts for creating mall-related tables.
 	•	Data Insertion – Sample records added to the database.
