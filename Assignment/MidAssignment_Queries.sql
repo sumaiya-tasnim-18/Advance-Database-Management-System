@@ -138,7 +138,6 @@ FROM Alumni;
 
 
 
-
 -- Group Functions
 
 SELECT SUM(D_Amount) AS Total_Donations

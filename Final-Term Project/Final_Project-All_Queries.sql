@@ -233,6 +233,7 @@ BEGIN
     DBMS_OUTPUT.PUT_LINE('Employee Salary: ' || v_emp_salary);
 END;
 
+
 -- Project Name:Mall Management System, Semester:Summer 2024-25, Course:Advance Database Management System, Section:A
 DECLARE
     v_guard_salary NUMBER(10,2);

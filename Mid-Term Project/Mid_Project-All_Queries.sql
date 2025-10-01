@@ -218,6 +218,7 @@ INSERT INTO Guard VALUES (905, 'Ethan Lewis', '01710000045', 'Night', 16000, 305
 select * from Guard;
 
 
+
 -- Query Writing Using PL/SQL
 -- Basic PL/SQL
 -- Project Name:Mall Management System, Semester:Summer 2024-25, Course:Advance Database Management System, Section:A
@@ -310,7 +311,6 @@ BEGIN
     END LOOP;
 END;
 /
-
 
 
 -- Project Name:Mall Management System, Semester:Summer 2024-25, Course:Advance Database Management System, Section:A
