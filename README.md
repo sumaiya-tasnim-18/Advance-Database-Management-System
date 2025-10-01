@@ -23,7 +23,7 @@ It provides a relational database model with user-friendly interfaces and PL/SQL
 	•	Basic PL/SQL – variables, operators, single-row function, group function, loop, conditional statements, subquery.
 	•	Advanced PL/SQL – stored functions, stored procedures, table-based records, explicit cursors, cursor-based records, row level triggers, statement level triggers, packages and including Exception handling.
 	•	Relational Algebra – Query representation using algebraic operations.
-	•	User Interface Design – Draft UI designed in Figma, then implemented in PHP based on the design.
+	•	User Interface Design – Draft UI designed in Figma, then implemented in PHP code based on the design.
 	•	Oracle 10g Connectivity – Connected application with Oracle database.
 
  # ⚙️ Tools & Technologies
