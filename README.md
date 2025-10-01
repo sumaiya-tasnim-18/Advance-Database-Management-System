@@ -4,8 +4,9 @@
 This repository contains the implementation of an Advance Database Management System (ADBMS) project titled Mall Management System. It demonstrates the complete lifecycle of database design, implementation, and application development using Oracle 10g with SQL and PL/SQL.
 
 The Mall Management System is designed to manage the overall functionality of a shopping mall including:
+
 # 🚀 Project Overview
- •	Shop details
+	•	Shop details
 	•	Customer management
 	•	Employee information
 	•	Sales and purchase records
