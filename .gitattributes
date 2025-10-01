@@ -1,0 +1,4 @@
+*.sql linguist-language=PLSQL
+*.pls linguist-language=PLSQL
+*.pks linguist-language=PLSQL
+*.pkb linguist-language=PLSQL
