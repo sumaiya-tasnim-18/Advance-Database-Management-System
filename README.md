@@ -20,8 +20,8 @@ It provides a relational database model with user-friendly interfaces and PL/SQL
 	•	Schema Diagram – Logical structure of the database.
 	•	Table Creation (SQL) – SQL scripts for creating mall-related tables.
 	•	Data Insertion – Sample records added to the database.
-	•	Basic PL/SQL – Procedures, functions, and cursors.
-	•	Advanced PL/SQL – Exception handling, triggers, and packages.
+	•	Basic PL/SQL – variables, operators, single-row function, group function, loop, conditional statements, subquery.
+	•	Advanced PL/SQL – stored functions, stored procedures, table-based records, explicit cursors, cursor-based records, row level triggers, statement level triggers, packages and including Exception handling.
 	•	Relational Algebra – Query representation using algebraic operations.
 	•	User Interface Design – Draft UI designed in Figma, then implemented in PHP based on the design.
 	•	Oracle 10g Connectivity – Connected application with Oracle database.
