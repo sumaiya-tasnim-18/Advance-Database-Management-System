@@ -15,20 +15,16 @@ The Mall Management System is designed to manage the overall functionality of a 
 It provides a relational database model with user-friendly interfaces and PL/SQL procedures to handle business logic.
 
 # 🛠️ Key Features
-	•	Database Design:
-	•	ER Diagram for system representation
-	•	Schema design with proper normalization (up to 3NF/BCNF)
-	•	Implementation:
-	•	SQL scripts for table creation and data insertion
-	•	PL/SQL queries, triggers, cursors, and stored procedures
-	•	Advanced PL/SQL with exception handling
-	•	User Interface:
-	•	UI design to support database operations
-	•	Connection with Oracle 10g for real-time execution
-	•	Database Operations:
-	•	Relational algebra expressions
-	•	Query optimization and execution
-	•	Secure database connectivity
+	•	ER Diagram – Visual representation of entities and relationships.
+	•	Normalization – Data structured up to 3NF/BCNF for efficiency.
+	•	Schema Diagram – Logical structure of the database.
+	•	Table Creation (SQL) – SQL scripts for creating mall-related tables.
+	•	Data Insertion – Sample records added to the database.
+	•	Basic PL/SQL – Procedures, functions, and cursors.
+	•	Advanced PL/SQL – Exception handling, triggers, and packages.
+	•	Relational Algebra – Query representation using algebraic operations.
+	•	User Interface Design – Draft UI designed in Figma, then implemented in PHP based on the design.
+	•	Oracle 10g Connectivity – Connected application with Oracle database.
 
  # ⚙️ Tools & Technologies
 	•	Database: Oracle 10g
